@@ -1,86 +1,107 @@
 [
   {
-    "contentTitle": "谷歌",
-    "contentUrl": "https://www.google.com/"
+    "contentUrl": "https://www.google.com/",
+    "is": false,
+    "contentTitle": "谷歌"
   },
   {
-    "contentTitle": "百度",
-    "contentUrl": "https://www.baidu.com/"
+    "contentUrl": "https://www.baidu.com/",
+    "is": false,
+    "contentTitle": "百度"
   },
   {
-    "contentTitle": "谷歌开发者",
-    "contentUrl": "https://developers.google.cn/"
+    "contentUrl": "https://developers.google.cn/",
+    "is": false,
+    "contentTitle": "谷歌开发者"
   },
   {
-    "contentTitle": "Github",
-    "contentUrl": "http://www.github.com/"
+    "contentUrl": "http://www.github.com/",
+    "is": false,
+    "contentTitle": "Github"
   },
   {
-    "contentTitle": "stackoverflow",
-    "contentUrl": "https://stackoverflow.com/"
+    "contentUrl": "https://stackoverflow.com/",
+    "is": false,
+    "contentTitle": "stackoverflow"
   },
   {
-    "contentTitle": "segmentfault",
-    "contentUrl": "https://segmentfault.com/t/android"
+    "contentUrl": "https://segmentfault.com/t/android",
+    "is": false,
+    "contentTitle": "segmentfault"
   },
   {
-    "contentTitle": "开源中国",
-    "contentUrl": "http://www.oschina.net/"
+    "contentUrl": "http://www.oschina.net/",
+    "is": false,
+    "contentTitle": "开源中国"
   },
   {
-    "contentTitle": "CSDN",
-    "contentUrl": "http://www.csdn.net/"
+    "contentUrl": "http://www.csdn.net/",
+    "is": false,
+    "contentTitle": "CSDN"
   },
   {
-    "contentTitle": "掘金",
-    "contentUrl": "https://juejin.im"
+    "contentUrl": "https://juejin.im",
+    "is": false,
+    "contentTitle": "掘金"
   },
   {
-    "contentTitle": "简书",
-    "contentUrl": "http://www.jianshu.com/"
+    "contentUrl": "http://www.jianshu.com/",
+    "is": false,
+    "contentTitle": "简书"
   },
   {
-    "contentTitle": "学Android",
-    "contentUrl": "http://www.xueandroid.com/"
+    "contentUrl": "http://www.xueandroid.com/",
+    "is": false,
+    "contentTitle": "学Android"
   },
   {
-    "contentTitle": "小专栏",
-    "contentUrl": "https://xiaozhuanlan.com"
+    "contentUrl": "https://xiaozhuanlan.com",
+    "is": false,
+    "contentTitle": "小专栏"
   },
   {
-    "contentTitle": "腾讯企业邮",
-    "contentUrl": "https://exmail.qq.com/cgi-bin/loginpage?t=dm_loginpage&dmtype=bizmail"
+    "contentUrl": "https://exmail.qq.com/cgi-bin/loginpage?t=dm_loginpage&dmtype=bizmail",
+    "is": false,
+    "contentTitle": "腾讯企业邮"
   },
   {
-    "contentTitle": "谷歌邮箱",
-    "contentUrl": "https://mail.google.com/mail/"
+    "contentUrl": "https://mail.google.com/mail/",
+    "is": false,
+    "contentTitle": "谷歌邮箱"
   },
   {
-    "contentTitle": "QQ邮箱",
-    "contentUrl": "https://mail.qq.com/"
+    "contentUrl": "https://mail.qq.com/",
+    "is": false,
+    "contentTitle": "QQ邮箱"
   },
   {
-    "contentTitle": "网易邮箱",
-    "contentUrl": "http://mail.163.com/"
+    "contentUrl": "http://mail.163.com/",
+    "is": false,
+    "contentTitle": "网易邮箱"
   },
   {
-    "contentTitle": "开发技术周报",
-    "contentUrl": "http://www.androidweekly.cn/"
+    "contentUrl": "http://www.androidweekly.cn/",
+    "is": false,
+    "contentTitle": "开发技术周报"
   },
   {
-    "contentTitle": "干货集中营",
-    "contentUrl": "http://gank.io/"
+    "contentUrl": "http://gank.io/",
+    "is": false,
+    "contentTitle": "干货集中营"
   },
   {
-    "contentTitle": "知乎",
-    "contentUrl": "http://www.zhihu.com"
+    "contentUrl": "http://www.zhihu.com",
+    "is": false,
+    "contentTitle": "知乎"
   },
   {
-    "contentTitle": "郭霖",
-    "contentUrl": "http://blog.csdn.net/guolin_blog"
+    "contentUrl": "http://blog.csdn.net/guolin_blog",
+    "is": false,
+    "contentTitle": "郭霖"
   },
   {
-    "contentTitle": "张鸿洋",
-    "contentUrl": "http://blog.csdn.net/lmj623565791"
+    "contentUrl": "http://blog.csdn.net/lmj623565791",
+    "is": false,
+    "contentTitle": "张鸿洋"
   }
 ]

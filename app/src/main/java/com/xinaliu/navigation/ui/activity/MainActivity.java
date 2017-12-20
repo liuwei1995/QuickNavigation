@@ -1,11 +1,11 @@
-package com.xinaliu.navigation;
+package com.xinaliu.navigation.ui.activity;
 
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
 import android.support.v4.view.ViewPager;
 
-import com.xinaliu.navigation.ui.activity.BaseActivity;
+import com.xinaliu.navigation.R;
 import com.xinaliu.navigation.ui.adapter.TabFragmentAdapter;
 import com.xinaliu.navigation.ui.fragment.AndroidFragment;
 
