@@ -58,13 +58,6 @@ public class ExampleUnitTest {
         JsonElement root = parser.parse(str);
         if (!root.isJsonObject())return null;
         JsonObject element = root.getAsJsonObject();
-        if (element.isJsonNull()){
-            if (t == int.class || t == float.class || t == double.class){
-                return gson.fromJson("0", t);
-            }else if (t == boolean.class){
-                return gson.fromJson("false", t);
-            }else return null;
-        }
         JsonElement jsonElement = element.get(key);
         if (jsonElement == null){
             if (t == int.class || t == float.class || t == double.class){

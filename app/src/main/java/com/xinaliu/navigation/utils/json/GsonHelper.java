@@ -47,7 +47,7 @@ public class GsonHelper implements JsonPersenter {
         JsonObject element = root.getAsJsonObject();
 
         JsonElement jsonElement = element.get(key);
-        if (jsonElement.isJsonNull()){
+        if (jsonElement == null){
             if (t == int.class || t == float.class || t == double.class){
                 return gson.fromJson("0", t);
             }else if (t == boolean.class){
@@ -71,7 +71,7 @@ public class GsonHelper implements JsonPersenter {
         JsonObject element = root.getAsJsonObject();
 
         JsonElement jsonElement = element.get(key);
-        if (!jsonElement.isJsonArray()) return new ArrayList<>();
+        if (jsonElement == null || !jsonElement.isJsonArray()) return new ArrayList<>();
         Type type = new TypeToken<List<T>>() {
         }.getType();
         return gson.fromJson(jsonElement, type);
